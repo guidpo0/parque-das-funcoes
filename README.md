@@ -5,7 +5,9 @@ Meu primeiro projeto desenvolvido durante a formação em desenvolvedor Web Full
 # Boas vindas ao repositório do Projeto Parque das Funções!
 
 Como meu primeiro projeto desenvolvido utilizando JavaScript durante o curso de Dev Full Stack, desenvolvi dois arquivos que contém diversas funções.
+
 Lembrando que esta aplicação corresponde aos meus esforços para melhorar minhas hard skills e soft skills sinta-se à vontade para explorá-la! Feedbacks construtivos são sempre bem vindos!
+
 Abaixo você poderá encontrar mais informações técnicas sobre este projeto.
 
 ---
